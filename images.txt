@@ -8,3 +8,4 @@ elasticsearch:7.9.3
 apache/skywalking-oap-server:8.5.0-es7
 apache/skywalking-ui:8.5.0
 mongo:4.2.21
+bitnami/minio:2024.7.16
